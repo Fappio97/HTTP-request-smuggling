@@ -1,0 +1,2 @@
+HTTP Smuggling
+As mentioned in the introduction, HTTP Smuggling leverages the different ways that a particularly crafted HTTP message can be parsed and interpreted by different agents (browsers, web caches, application firewalls).
