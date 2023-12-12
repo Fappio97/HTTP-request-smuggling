@@ -1,0 +1,3 @@
+[submodule "HTTP-request-smuggling"]
+	path = HTTP-request-smuggling
+	url = https://github.com/Rhaegal222/COD-Private
